@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Study</string>
-    <string name="enter">Entrar</string>
+    <string name="enter">Entrar {fa-sign-in}</string>
+    <string name="search_group">Buscar Grupo</string>
+    <string name="filters">Filtros</string>
+    <string name="order_by">Ordenar por</string>
 </resources>

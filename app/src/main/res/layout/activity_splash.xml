@@ -6,13 +6,12 @@
     tools:context="br.uvv.inovatech.study.activity.SplashActivity"
     android:background="@color/colorPrimary">
 
-    <Button
+    <com.joanzapata.iconify.widget.IconButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="@string/enter"
-        android:textColor="@color/colorPrimaryDark"
-        android:background="@color/colorAccent"
-        android:onClick="onEnterAppButtonClicked"/>
+        android:onClick="onEnterAppButtonClicked"
+        style="@style/DefaultButton"/>
 
 </RelativeLayout>

@@ -3,4 +3,12 @@
     <color name="colorPrimary">#7c38ba</color>
     <color name="colorPrimaryDark">#5b268b</color>
     <color name="colorAccent">#37dabf</color>
+
+    <color name="default_button_inactive">#dfdfdf</color>
+    <color name="default_button_pressed">#ababab</color>
+    <color name="default_button_text_inactive">#7c38ba</color>
+    <color name="default_button_text_pressed">#5b268b</color>
+
+    <color name="vh_grupoestudo_background_inactive">#ffffff</color>
+    <color name="vh_grupoestudo_background_pressed">#bcbcbc</color>
 </resources>

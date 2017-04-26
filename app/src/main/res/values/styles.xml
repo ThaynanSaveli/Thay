@@ -14,4 +14,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="DefaultButton" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/default_button_background</item>
+        <item name="android:textColor">@drawable/default_button_text</item>
+    </style>
+
 </resources>

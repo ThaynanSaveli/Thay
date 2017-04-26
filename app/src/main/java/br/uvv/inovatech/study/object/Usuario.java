@@ -1,6 +1,8 @@
 package br.uvv.inovatech.study.object;
 
-public class Usuario {
+import java.io.Serializable;
+
+public class Usuario implements Serializable {
     public Long id;
     public String token;
     public String nome;
